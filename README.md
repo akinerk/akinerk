@@ -1,16 +1,20 @@
 ## Akıner
+### Repo Map
+#### Security Projects
+<p><a href='https://github.com/akinerkisa/NoMoreForbidden'>NoMoreForbidden</a></p>
+<p><a href='https://github.com/akinerkisa/GoNMF'>GoNMF</a></p>
+<p><a href='https://github.com/akinerkisa/renikApp'>renikApp</a></p>
+<p><a href='https://github.com/akinerkisa/HTLogin'>HTLogin</p>
 
-<!--
-**akinerk/akinerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Web Projects
+<p><a href='https://github.com/akinerkisa/hacettepebilgi.github.io'>hacettepe.biz</a></p>
+<p><a href='https://github.com/akinerkisa/hacettepekayit.github.io'>kayit.hacettepe.biz</a></p>
+<p><a href='https://github.com/akinerkisa/akinerkisa.github.io'>akiner.net</a></p>
 
-Here are some ideas to get you started:
+#### AI/ML etc. Projects
+<p><a href='https://github.com/akinerkisa/SimpleDDS'>SimpleDDS</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Notes & Solutions
+<p><a href='https://github.com/akinerkisa/python-notlari'>Python Notları(TR)</a></p>
+<p><a href='https://github.com/akinerkisa/Codedex'>Codedex Solutions</a></p>
+
